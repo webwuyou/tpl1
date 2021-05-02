@@ -1,12 +1,12 @@
 {
-  "name": "ab11",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "tpl1",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "{{author}",
   "license": "ISC"
 }
